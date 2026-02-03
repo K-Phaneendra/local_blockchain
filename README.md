@@ -2,6 +2,6 @@
 created using hardhat
 
 ## features
-DAO Governance
-NFT badges
-Tokens
+- DAO Governance
+- NFT badges
+- Tokens
